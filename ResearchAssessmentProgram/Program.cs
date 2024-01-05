@@ -10,6 +10,8 @@ namespace ResearchAssessmentProgram
     {
         static void Main(string[] args)
         {
+            var filtered = // Some LINQ expression
+            return new List<Employee>(filtered);
         }
     }
 }
